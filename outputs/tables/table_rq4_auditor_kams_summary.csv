@@ -1,0 +1,11 @@
+auditor_tier,A1_num,n,breakdown,sector
+Big Four,0,11,auditor_tier,
+Big Four,1,1,auditor_tier,
+Big Four,2,1,auditor_tier,
+Other,0,1,auditor_tier,
+,0,6,sector,Banking
+,0,2,sector,Cement
+,1,1,sector,Cement
+,0,3,sector,Oil and gas
+,0,1,sector,Telecoms
+,2,1,sector,Telecoms

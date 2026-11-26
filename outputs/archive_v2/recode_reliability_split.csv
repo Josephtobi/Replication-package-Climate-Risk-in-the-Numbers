@@ -1,0 +1,4 @@
+subset,n_pairs,exact_agreement_pct,within_one_pct,unweighted_kappa,weighted_kappa_quad
+all_paired,31,74.19,87.1,0.494,0.663
+connectivity_C1_to_C7,26,73.08,88.46,0.519,0.706
+A1_only,5,80.0,80.0,0.0,0.0

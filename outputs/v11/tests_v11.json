@@ -1,0 +1,45 @@
+{
+  "kruskal_H": 5.394,
+  "kruskal_p": 0.1451,
+  "epsilon_sq": 0.415,
+  "panel_a_phase1_vs_rest": {
+    "n1": 4,
+    "n2": 10,
+    "median1": 12.5,
+    "median2": 0.0,
+    "U": 28.0,
+    "p": 0.30369630369630374,
+    "r_script": -0.4,
+    "r_positive_when_first_group_higher": 0.4
+  },
+  "panel_b_adopters_vs_non": {
+    "n1": 6,
+    "n2": 8,
+    "median1": 12.5,
+    "median2": 0.0,
+    "U": 35.0,
+    "p": 0.18115218115218118,
+    "r_script": -0.458,
+    "r_positive_when_first_group_higher": 0.458
+  },
+  "spearman_sr_ci": {
+    "n": 14,
+    "rho": 0.368,
+    "p": 0.1949
+  },
+  "spearman_ln_assets_ci": {
+    "n": 13,
+    "rho": 0.121,
+    "p": 0.6942
+  },
+  "spearman_hits_ci": {
+    "n": 14,
+    "rho": 0.75,
+    "p": 0.002
+  },
+  "tiers": {
+    "Silent": 9,
+    "Boilerplate": 4,
+    "Partial": 1
+  }
+}

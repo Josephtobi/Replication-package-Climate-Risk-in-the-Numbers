@@ -1,0 +1,15 @@
+firm_id,company,adoption_group,sr_risks_named_count,fs_substantive_count,decoupling_gap,ci,spearman_rho_sr_ci,spearman_p_indicative
+14,Airtel Africa,Non-adopter,3,3,0,38.89,0.368,0.1949
+6,Zenith Bank,Voluntary,4,1,3,25.0,0.368,0.1949
+1,Seplat Energy,Phase 1,4,1,3,22.22,0.368,0.1949
+13,MTN Nigeria,Phase 1,4,1,3,16.67,0.368,0.1949
+5,Fidelity Bank,Phase 1,4,0,4,8.33,0.368,0.1949
+10,Dangote Cement,Non-adopter,4,0,4,0.0,0.368,0.1949
+2,Aradel Holdings,Non-adopter,0,0,0,0.0,0.368,0.1949
+3,Oando,Non-adopter,2,0,2,0.0,0.368,0.1949
+4,Access Holdings,Phase 1,4,0,4,0.0,0.368,0.1949
+7,GTCO,Non-adopter,2,0,2,0.0,0.368,0.1949
+8,UBA,Non-adopter,2,0,2,0.0,0.368,0.1949
+9,Stanbic IBTC,Voluntary,0,0,0,0.0,0.368,0.1949
+11,BUA Cement,Non-adopter,4,0,4,0.0,0.368,0.1949
+12,Lafarge Africa,Non-adopter,4,0,4,0.0,0.368,0.1949

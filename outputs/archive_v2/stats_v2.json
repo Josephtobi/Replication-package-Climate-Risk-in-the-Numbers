@@ -1,0 +1,275 @@
+{
+  "source": "Script output after the v2 corrections. p-values are indicative at N=14.",
+  "tier_counts_all_firms": [
+    {
+      "tier": "Tier 1 Connected",
+      "n": 1,
+      "pct": 7.1,
+      "sector": "All"
+    },
+    {
+      "tier": "Tier 2 Partial",
+      "n": 3,
+      "pct": 21.4,
+      "sector": "All"
+    },
+    {
+      "tier": "Tier 3 Boilerplate",
+      "n": 8,
+      "pct": 57.1,
+      "sector": "All"
+    },
+    {
+      "tier": "Tier 4 Silent",
+      "n": 2,
+      "pct": 14.3,
+      "sector": "All"
+    }
+  ],
+  "indicators": [
+    {
+      "indicator": "C4",
+      "n": 8,
+      "count_0": 8,
+      "count_1": 0,
+      "count_2": 0,
+      "count_3": 0,
+      "mean": 0.0,
+      "sd": 0.0,
+      "median": 0.0,
+      "iqr": 0.0,
+      "indicator_rank_worst_to_best": 1
+    },
+    {
+      "indicator": "C3",
+      "n": 8,
+      "count_0": 8,
+      "count_1": 0,
+      "count_2": 0,
+      "count_3": 0,
+      "mean": 0.0,
+      "sd": 0.0,
+      "median": 0.0,
+      "iqr": 0.0,
+      "indicator_rank_worst_to_best": 2
+    },
+    {
+      "indicator": "C6",
+      "n": 8,
+      "count_0": 8,
+      "count_1": 0,
+      "count_2": 0,
+      "count_3": 0,
+      "mean": 0.0,
+      "sd": 0.0,
+      "median": 0.0,
+      "iqr": 0.0,
+      "indicator_rank_worst_to_best": 3
+    },
+    {
+      "indicator": "A1",
+      "n": 14,
+      "count_0": 14,
+      "count_1": 0,
+      "count_2": 0,
+      "count_3": 0,
+      "mean": 0.0,
+      "sd": 0.0,
+      "median": 0.0,
+      "iqr": 0.0,
+      "indicator_rank_worst_to_best": 4
+    },
+    {
+      "indicator": "C2",
+      "n": 8,
+      "count_0": 7,
+      "count_1": 1,
+      "count_2": 0,
+      "count_3": 0,
+      "mean": 0.125,
+      "sd": 0.354,
+      "median": 0.0,
+      "iqr": 0.0,
+      "indicator_rank_worst_to_best": 5
+    },
+    {
+      "indicator": "C1",
+      "n": 14,
+      "count_0": 9,
+      "count_1": 4,
+      "count_2": 1,
+      "count_3": 0,
+      "mean": 0.429,
+      "sd": 0.646,
+      "median": 0.0,
+      "iqr": 1.0,
+      "indicator_rank_worst_to_best": 6
+    },
+    {
+      "indicator": "C5b",
+      "n": 6,
+      "count_0": 4,
+      "count_1": 0,
+      "count_2": 2,
+      "count_3": 0,
+      "mean": 0.667,
+      "sd": 1.033,
+      "median": 0.0,
+      "iqr": 1.5,
+      "indicator_rank_worst_to_best": 7
+    },
+    {
+      "indicator": "C7",
+      "n": 14,
+      "count_0": 2,
+      "count_1": 7,
+      "count_2": 3,
+      "count_3": 2,
+      "mean": 1.357,
+      "sd": 0.929,
+      "median": 1.0,
+      "iqr": 1.0,
+      "indicator_rank_worst_to_best": 8
+    },
+    {
+      "indicator": "C5a",
+      "n": 6,
+      "count_0": 1,
+      "count_1": 2,
+      "count_2": 2,
+      "count_3": 1,
+      "mean": 1.5,
+      "sd": 1.049,
+      "median": 1.5,
+      "iqr": 1.0,
+      "indicator_rank_worst_to_best": 9
+    }
+  ],
+  "sectors": [
+    {
+      "sector": "Banking",
+      "n": 6,
+      "median_ci": 25.0,
+      "min_ci": 0.0,
+      "max_ci": 75.0,
+      "iqr": 35.41,
+      "kruskal_H": 5.38,
+      "kruskal_p_indicative": 0.146,
+      "epsilon_sq": 0.414,
+      "note": "p-values are indicative at N=14"
+    },
+    {
+      "sector": "Cement",
+      "n": 3,
+      "median_ci": 5.56,
+      "min_ci": 5.56,
+      "max_ci": 5.56,
+      "iqr": 0.0,
+      "kruskal_H": 5.38,
+      "kruskal_p_indicative": 0.146,
+      "epsilon_sq": 0.414,
+      "note": "p-values are indicative at N=14"
+    },
+    {
+      "sector": "Oil and gas",
+      "n": 3,
+      "median_ci": 11.11,
+      "min_ci": 0.0,
+      "max_ci": 11.11,
+      "iqr": 5.555,
+      "kruskal_H": 5.38,
+      "kruskal_p_indicative": 0.146,
+      "epsilon_sq": 0.414,
+      "note": "p-values are indicative at N=14"
+    },
+    {
+      "sector": "Telecoms",
+      "n": 2,
+      "median_ci": 22.22,
+      "min_ci": 11.11,
+      "max_ci": 33.33,
+      "iqr": 11.11,
+      "kruskal_H": 5.38,
+      "kruskal_p_indicative": 0.146,
+      "epsilon_sq": 0.414,
+      "note": "p-values are indicative at N=14"
+    }
+  ],
+  "mann_whitney": [
+    {
+      "panel": "A_Phase1_vs_rest",
+      "group": "Phase 1",
+      "n": 4,
+      "median_ci": 33.33,
+      "iqr": 11.805,
+      "range": "11.11-58.33",
+      "mannwhitney_U": 33.0,
+      "p_indicative": 0.0759240759240759,
+      "rank_biserial_r": -0.65
+    },
+    {
+      "panel": "A_Phase1_vs_rest",
+      "group": "Non-Phase 1",
+      "n": 10,
+      "median_ci": 8.334999999999999,
+      "iqr": 9.720000000000002,
+      "range": "0.0-75.0",
+      "mannwhitney_U": 33.0,
+      "p_indicative": 0.0759240759240759,
+      "rank_biserial_r": -0.65
+    },
+    {
+      "panel": "B_Adopters_vs_Non",
+      "group": "All adopters",
+      "n": 6,
+      "median_ci": 33.33,
+      "iqr": 35.415,
+      "range": "0.0-75.0",
+      "mannwhitney_U": 37.5,
+      "p_indicative": 0.1078921078921079,
+      "rank_biserial_r": -0.562
+    },
+    {
+      "panel": "B_Adopters_vs_Non",
+      "group": "Non-adopters",
+      "n": 8,
+      "median_ci": 8.334999999999999,
+      "iqr": 6.94,
+      "range": "0.0-16.67",
+      "mannwhitney_U": 37.5,
+      "p_indicative": 0.1078921078921079,
+      "rank_biserial_r": -0.562
+    }
+  ],
+  "rank_biserial_note": "The script uses r = 1 - 2U/(n1*n2). The sign that is positive when the first-named group ranks higher is the negative of that figure: Panel A 0.650, Panel B 0.562. Stanbic remains in the adopter group.",
+  "spearman": {
+    "sr_risks_vs_ci": {
+      "n": 14,
+      "rho": 0.434,
+      "p_indicative": 0.1209
+    },
+    "ln_assets_vs_ci_13_firms": [
+      {
+        "pair": "CI_vs_ln_total_assets",
+        "n": 13,
+        "spearman_rho": 0.533,
+        "p_indicative": 0.0605,
+        "note": "indicative; missing assets for some firms"
+      }
+    ],
+    "ln_assets_vs_ci_14_firms": "NOT FOUND. No sourced Central Bank of Nigeria closing rate on 31 March 2026.",
+    "log_market_cap": "NOT FOUND. Market capitalisation is sourced only for Dangote Cement and BUA Cement.",
+    "whole_report_hits_vs_ci": [
+      {
+        "pair": "CI_vs_total_ar_hits",
+        "n": 14,
+        "spearman_rho": 0.652,
+        "p_indicative": 0.0115,
+        "note": "indicative"
+      }
+    ],
+    "fs_only_hits_vs_ci": "NOT COMPUTED. Statement boundaries could not be cut cleanly."
+  },
+  "recode_agreement": "NOT COMPUTED. The five-firm recode is due on or after 9 December 2026.",
+  "kappa": "NOT COMPUTED."
+}

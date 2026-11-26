@@ -1,0 +1,107 @@
+{
+  "scale": {
+    "0": "Absent: climate not mentioned where the indicator looks",
+    "1": "Boilerplate: generic mention with no entity-specific link",
+    "2": "Entity-specific qualitative: names firm-specific assets, loans, sites, or assumptions, without numbers",
+    "3": "Quantified or tested: states figures, ranges, dates, or sensitivity tests linked to climate"
+  },
+  "indicators": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5a",
+    "C5b",
+    "C6",
+    "C7",
+    "A1"
+  ],
+  "connectivity_indicators": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5a",
+    "C5b",
+    "C6",
+    "C7"
+  ],
+  "sector_applicability": {
+    "Oil and gas": {
+      "C1": true,
+      "C2": true,
+      "C3": true,
+      "C4": true,
+      "C5a": false,
+      "C5b": false,
+      "C6": true,
+      "C7": true,
+      "A1": true,
+      "sector_max": 18
+    },
+    "Cement": {
+      "C1": true,
+      "C2": true,
+      "C3": true,
+      "C4": true,
+      "C5a": false,
+      "C5b": false,
+      "C6": true,
+      "C7": true,
+      "A1": true,
+      "sector_max": 18
+    },
+    "Telecoms": {
+      "C1": true,
+      "C2": true,
+      "C3": true,
+      "C4": "conditional_restoration_provision",
+      "C5a": false,
+      "C5b": false,
+      "C6": true,
+      "C7": true,
+      "A1": true,
+      "sector_max_if_c4": 18,
+      "sector_max_without_c4": 15
+    },
+    "Banking": {
+      "C1": true,
+      "C2": false,
+      "C3": false,
+      "C4": false,
+      "C5a": true,
+      "C5b": true,
+      "C6": false,
+      "C7": true,
+      "A1": true,
+      "sector_max": 12
+    }
+  },
+  "tiers": {
+    "Tier 1 Connected": {
+      "min": 67,
+      "max": 100
+    },
+    "Tier 2 Partial": {
+      "min": 34,
+      "max": 66
+    },
+    "Tier 3 Boilerplate": {
+      "min": 1,
+      "max": 33
+    },
+    "Tier 4 Silent": {
+      "min": 0,
+      "max": 0
+    }
+  },
+  "tie_breaks": [
+    "C7",
+    "count_score_3",
+    "A1",
+    "shared_rank"
+  ],
+  "frozen": true,
+  "freeze_date": "2026-11-25",
+  "pilot_notes": "Pilot Seplat+Access completed. Banking C5: score climate/ECL content in IFRS 7 notes OR sustainability-related financial disclosures in the AR that explicitly address climate in credit risk/ECL (Example 4 substance). Telecoms C4 NA for Airtel (no confirmed climate-linked restoration)."
+}

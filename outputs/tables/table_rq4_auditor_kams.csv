@@ -1,0 +1,15 @@
+firm_id,company,sector,auditor_name,auditor_tier,A1
+14,Airtel Africa,Telecoms,Deloitte LLP,Big Four,2
+6,Zenith Bank,Banking,PricewaterhouseCoopers,Big Four,0
+1,Seplat Energy,Oil and gas,PricewaterhouseCoopers,Big Four,0
+13,MTN Nigeria,Telecoms,Ernst & Young Nigeria,Big Four,0
+5,Fidelity Bank,Banking,Deloitte & Touche,Big Four,0
+10,Dangote Cement,Cement,KPMG Professional Services,Big Four,1
+2,Aradel Holdings,Oil and gas,Deloitte & Touche,Big Four,0
+3,Oando,Oil and gas,BDO Professional Services,Other,0
+4,Access Holdings,Banking,KPMG Professional Services,Big Four,0
+7,GTCO,Banking,Ernst & Young,Big Four,0
+8,UBA,Banking,Ernst & Young,Big Four,0
+9,Stanbic IBTC,Banking,PricewaterhouseCoopers,Big Four,0
+11,BUA Cement,Cement,PricewaterhouseCoopers,Big Four,0
+12,Lafarge Africa,Cement,Ernst & Young,Big Four,0

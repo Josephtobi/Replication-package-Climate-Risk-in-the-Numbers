@@ -1,0 +1,291 @@
+{
+  "accessed": "2026-11-25",
+  "documents": [
+    {
+      "firm_id": "01",
+      "company": "Seplat Energy",
+      "slug": "seplat",
+      "sector": "Oil and gas",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://www.seplatenergy.com/media/0uifu5ei/seplat-2025-integrated-report-260420-compressed.pdf",
+      "notes": "Integrated annual report includes FS, auditor report, and sustainability section; also used as sr source"
+    },
+    {
+      "firm_id": "01",
+      "company": "Seplat Energy",
+      "slug": "seplat",
+      "sector": "Oil and gas",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://www.seplatenergy.com/media/0uifu5ei/seplat-2025-integrated-report-260420-compressed.pdf",
+      "notes": "Sustainability section inside 2025 integrated report (same file as ar)"
+    },
+    {
+      "firm_id": "02",
+      "company": "Aradel Holdings",
+      "slug": "aradel",
+      "sector": "Oil and gas",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://www.aradel.com/wp-content/uploads/2026/07/Aradel-2025-Annual-Report.pdf",
+      "notes": "Audited 2025 annual report from company IR"
+    },
+    {
+      "firm_id": "02",
+      "company": "Aradel Holdings",
+      "slug": "aradel",
+      "sector": "Oil and gas",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://www.aradel.com/wp-content/uploads/2026/07/Aradel-2025-Annual-Report.pdf",
+      "notes": "Sustainability content in annual report strategic/ESG sections"
+    },
+    {
+      "firm_id": "03",
+      "company": "Oando",
+      "slug": "oando",
+      "sector": "Oil and gas",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/47386_OANDO_PLC-_QUARTER_5_-_FINANCIAL_STATEMENT_FOR_2025_FINANCIAL_STATEMENTS_JULY_2026.pdf",
+      "notes": "NGX filing of audited FY2025 FS"
+    },
+    {
+      "firm_id": "04",
+      "company": "Access Holdings",
+      "slug": "access",
+      "sector": "Banking",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://accessholdingsplc.com/wp-content/uploads/2026/05/Access-Holdings-PLC-FY-2025.pdf",
+      "notes": "Company site FY2025 audited FS package"
+    },
+    {
+      "firm_id": "04",
+      "company": "Access Holdings",
+      "slug": "access",
+      "sector": "Banking",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://theaccesscorporationrevamp.azurewebsites.net/wp-content/uploads/2026/06/Access-Holding-plc-2025-Annual-Report.pdf",
+      "notes": "2025 integrated annual report with sustainability section"
+    },
+    {
+      "firm_id": "05",
+      "company": "Fidelity Bank",
+      "slug": "fidelity",
+      "sector": "Banking",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://www.fidelitybank.ng/documents/Fidelity-Bank-Plc-2025-Annual-Report.pdf",
+      "notes": "Company IR 2025 annual report includes sustainability and climate report"
+    },
+    {
+      "firm_id": "05",
+      "company": "Fidelity Bank",
+      "slug": "fidelity",
+      "sector": "Banking",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://www.fidelitybank.ng/documents/Fidelity-Bank-Plc-2025-Annual-Report.pdf",
+      "notes": "Sustainability and Climate Report 2025 embedded in annual report"
+    },
+    {
+      "firm_id": "06",
+      "company": "Zenith Bank",
+      "slug": "zenith",
+      "sector": "Banking",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://digital.zenithbank.com/pdfs/annualreport2025.pdf",
+      "notes": "Company digital annual report 2025 with sustainability disclosures"
+    },
+    {
+      "firm_id": "06",
+      "company": "Zenith Bank",
+      "slug": "zenith",
+      "sector": "Banking",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://digital.zenithbank.com/pdfs/annualreport2025.pdf",
+      "notes": "IFRS S1/S2 sustainability section inside annual report"
+    },
+    {
+      "firm_id": "07",
+      "company": "GTCO",
+      "slug": "gtco",
+      "sector": "Banking",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://gtco-plc.files.svdcdn.com/production/annual-reports/2025-annual-report/GTCO-2025-Annual-Report.pdf",
+      "notes": "Official GTCO 2025 annual report CDN"
+    },
+    {
+      "firm_id": "07",
+      "company": "GTCO",
+      "slug": "gtco",
+      "sector": "Banking",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://gtco-plc.files.svdcdn.com/production/annual-reports/2025-annual-report/GTCO-2025-Annual-Report.pdf",
+      "notes": "Abridged sustainability report inside annual report"
+    },
+    {
+      "firm_id": "08",
+      "company": "UBA",
+      "slug": "uba",
+      "sector": "Banking",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://www.ubagroup.com/wp-content/uploads/2026/05/UBA-PLC-2025-Annual-Report.pdf",
+      "notes": "Company IR 2025 annual report"
+    },
+    {
+      "firm_id": "08",
+      "company": "UBA",
+      "slug": "uba",
+      "sector": "Banking",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://www.ubagroup.com/wp-content/uploads/2026/05/UBA-PLC-2025-Annual-Report.pdf",
+      "notes": "Abridged sustainability section inside annual report"
+    },
+    {
+      "firm_id": "09",
+      "company": "Stanbic IBTC",
+      "slug": "stanbic",
+      "sector": "Banking",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/46694_STANBIC_IBTC__HOLDINGS_PLC-_QUARTER_5_-_FINANCIAL_STATEMENT_FOR_2025_FINANCIAL_STATEMENTS_APRIL_2026.pdf",
+      "notes": "NGX audited FY2025 FS; full illustrated AR may be separate on reporting.stanbicibtc.com"
+    },
+    {
+      "firm_id": "10",
+      "company": "Dangote Cement",
+      "slug": "dangote",
+      "sector": "Cement",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://cement.dangote.com/wp-content/uploads/2026/06/Dangote-Cememt-Plc-2025-Annual-Report.pdf",
+      "notes": "Company IR 2025 annual report with sustainability section"
+    },
+    {
+      "firm_id": "10",
+      "company": "Dangote Cement",
+      "slug": "dangote",
+      "sector": "Cement",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://cement.dangote.com/wp-content/uploads/2026/06/Dangote-Cememt-Plc-2025-Annual-Report.pdf",
+      "notes": "Sustainability report section inside annual report"
+    },
+    {
+      "firm_id": "11",
+      "company": "BUA Cement",
+      "slug": "bua",
+      "sector": "Cement",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://www.buacement.com/documents/20260514_BUA%20CEMENT%20AR25_VF_update%20(INTERACTIVE)20260514091939.pdf",
+      "notes": "Company IR interactive 2025 annual report with ESG scorecard"
+    },
+    {
+      "firm_id": "11",
+      "company": "BUA Cement",
+      "slug": "bua",
+      "sector": "Cement",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://www.buacement.com/documents/20260514_BUA%20CEMENT%20AR25_VF_update%20(INTERACTIVE)20260514091939.pdf",
+      "notes": "Sustainability sections inside 2025 annual report"
+    },
+    {
+      "firm_id": "11",
+      "company": "BUA Cement",
+      "slug": "bua",
+      "sector": "Cement",
+      "doc_type": "afs",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/BUA_Cement_-_2025_AFS.pdf",
+      "notes": "NGX audited FY2025 AFS for financial statement notes coding"
+    },
+    {
+      "firm_id": "12",
+      "company": "Lafarge Africa",
+      "slug": "lafarge",
+      "sector": "Cement",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://cardinalstoneregistrars.com/wp-content/uploads/2026/03/Lafarge%20Africa%20Plc%20-%202025%20Lafarge%20Annual%20Report%20and%20Accounts.pdf",
+      "notes": "Registrar-hosted 2025 annual report and accounts with sustainability performance report"
+    },
+    {
+      "firm_id": "12",
+      "company": "Lafarge Africa",
+      "slug": "lafarge",
+      "sector": "Cement",
+      "doc_type": "sr",
+      "period_end": "2025-12-31",
+      "audited": "n/a",
+      "url": "https://cardinalstoneregistrars.com/wp-content/uploads/2026/03/Lafarge%20Africa%20Plc%20-%202025%20Lafarge%20Annual%20Report%20and%20Accounts.pdf",
+      "notes": "Sustainability Performance Report inside AR"
+    },
+    {
+      "firm_id": "13",
+      "company": "MTN Nigeria",
+      "slug": "mtn",
+      "sector": "Telecoms",
+      "doc_type": "ar",
+      "period_end": "2025-12-31",
+      "audited": "yes",
+      "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/MTN_Nigeria_-_2025_AFS.pdf",
+      "notes": "NGX MTN Nigeria 2025 AFS with directors and sustainability extracts"
+    },
+    {
+      "firm_id": "14",
+      "company": "Airtel Africa",
+      "slug": "airtel",
+      "sector": "Telecoms",
+      "doc_type": "ar",
+      "period_end": "2026-03-31",
+      "audited": "yes",
+      "url": "https://cdn.prod.nntech.io/company-events/reports/afd2646e-f3ed-38af-8710-71d5c6b0cb5f/report.pdf",
+      "notes": "Airtel Africa Annual Report and Accounts 2026 (year ended 31 March 2026); flag different year-end"
+    },
+    {
+      "firm_id": "14",
+      "company": "Airtel Africa",
+      "slug": "airtel",
+      "sector": "Telecoms",
+      "doc_type": "sr",
+      "period_end": "2026-03-31",
+      "audited": "n/a",
+      "url": "https://cdn.prod.nntech.io/company-events/reports/afd2646e-f3ed-38af-8710-71d5c6b0cb5f/report.pdf",
+      "notes": "Sustainability/TCFD section inside Annual Report 2026"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+panel,group,n,median_ci,iqr,range,mannwhitney_U,p_indicative,rank_biserial_r
+A_Phase1_vs_rest,Phase 1,4,12.5,11.81,0.0-22.22,28.0,0.30369630369630374,-0.4
+A_Phase1_vs_rest,Non-Phase 1,10,0.0,0.0,0.0-38.89,28.0,0.30369630369630374,-0.4
+B_Adopters_vs_Non,All adopters,6,12.5,18.75,0.0-25.0,35.0,0.18115218115218118,-0.458
+B_Adopters_vs_Non,Non-adopters,8,0.0,0.0,0.0-38.89,35.0,0.18115218115218118,-0.458

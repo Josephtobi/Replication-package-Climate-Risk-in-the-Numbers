@@ -1,0 +1,2 @@
+subset_n_firms,n_indicator_pairs,exact_agreement_pct,within_one_pct,unweighted_kappa,weighted_kappa_quad,ci_95_lower,ci_95_upper,meets_80pct_threshold,note
+5,31,74.19,87.1,0.494,0.663,0.279,0.879,no,Version 1.0 first score against the version 1.0 second pass. Not the published version 1.1 index.
